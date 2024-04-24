@@ -20,8 +20,8 @@ markdown_text = """
 
 ###  💁‍♀️ About Me  
 <p align="center">
-    <a href="https://peterica.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
-    <a href="mailto:ilovefran.ofm@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ilovefran.ofm@gmail.com"/></a>
+    <a href="https://inkyeomnote.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
+    <a href="mailto:kng03318@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ilovefran.ofm@gmail.com"/></a>
 </p>
 
 <br>
