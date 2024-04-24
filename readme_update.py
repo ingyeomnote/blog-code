@@ -5,7 +5,7 @@ import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
 # rss 추출
-feed = feedparser.parse("https://peterica.tistory.com/rss")
+feed = feedparser.parse("https://inkyeomnote.tistory.com/rss")
 
 # README 양식
 markdown_text = """
