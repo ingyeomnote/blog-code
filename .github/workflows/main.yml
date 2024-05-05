@@ -40,5 +40,5 @@ jobs:
           git add .
           git config --local user.email "freeartjin@naver.com"
           git config --local user.name "ingyeomnote"
-          git commit -m "Update README.md"
+          git commit -m "Tistory update"
           git push origin +main
